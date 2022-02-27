@@ -39,8 +39,8 @@ career-profile:
     title: Career Profile
     summary: |
       I am an undergraduate student of computer science at the Ionian University. Every semester, I gain more experience and knowledge on the part of programming. 
-education: Department of Informatics
-    - degree:
+education: 
+    - degree: Department of Informatics
       university: Ionian University 
       time: 2019 - Present
 experiences:
