@@ -45,11 +45,11 @@ education:
       time: 2019 - Present
 
 experiences:
-      - role:
-        time:
-        company:
-        details: |
-        As an undergraduate student I have no experience yet but I will definitely have the right skills at the end of my studies.
+     - role:
+       time:
+       company:
+       details: |
+         As an undergraduate student I have no experience yet but I will definitely have the right skills at the end of my studies.
 
 skills:
     title: Skills &amp; Proficiency
