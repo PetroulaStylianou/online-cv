@@ -44,7 +44,10 @@ education:
       university: Ionian University 
       time: 2019 - Present
 experiences:
-      - details: |
+      - role:
+        time:
+        company:
+        details: |
         As an undergraduate student I have no experience yet but I will definitely have the right skills at the end of my studies.
 
 skills:
